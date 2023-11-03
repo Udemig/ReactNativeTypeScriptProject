@@ -1,0 +1,1 @@
+export type TimerModes="Focus" | "Break"
